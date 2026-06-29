@@ -1,0 +1,7 @@
+.clangd
+*vim
+vitis_hls.log
+vitis_*
+*.csv*
+_*
+_tmp_dse

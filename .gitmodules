@@ -1,3 +1,6 @@
 [submodule "python/torchhd"]
 	path = python/torchhd
 	url = git@github.com:hyperdimensional-computing/torchhd.git
+[submodule "hls/hyle"]
+	path = hls/hyle
+	url = git@github.com:cravieira/hyle.git
